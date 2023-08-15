@@ -84,13 +84,13 @@ Operational since 2020.</h4>
   <div class="row slideanim">
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-flag logo-small"></span>
-      <h4>Surveys</h4>
+      <h4>Surveying</h4>
       <p>Cadastral , Revenue Survey and Contour survey</p>
     </div>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-map-marker logo-small"></span>
-      <h4>Mapping</h4>
-      <p>Forest & Vegetation Mapping</p>
+      <h4>GIS</h4>
+      <p>Parcel Mapping &amp; Flood Mapping</p>
     </div>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-stats logo-small"></span>
