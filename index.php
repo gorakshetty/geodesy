@@ -85,7 +85,7 @@ Operational since 2020.</h4>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-flag logo-small"></span>
       <h4>Surveying</h4>
-      <p>Cadastral , Revenue Survey and Contour survey</p>
+      <p>Cadastral and Contour survey</p>
     </div>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-map-marker logo-small"></span>
@@ -95,7 +95,7 @@ Operational since 2020.</h4>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-stats logo-small"></span>
       <h4>Analysis</h4>
-      <p>Farming & Crop Pattern</p>
+      <p>GIS Analysis and Modeling in Remote Sensing</p>
     </div>
   </div>
   <br><br>
@@ -167,7 +167,7 @@ Operational since 2020.</h4>
       </div>
       <div class="item">
       <div class="row">
-      <img src="images/image2.png" alt="LIDAR in Cut fill aspects"  height="200">
+      <img src="images/image2.png" alt="LiDAR in Cut fill aspects"  height="200">
         <h4> Drone &amp; LIDAR in Cut fill aspects</h4>
       </div>
       </div>
@@ -210,8 +210,8 @@ Operational since 2020.</h4>
     <div class="col-sm-5">
       <p>Contact us and we'll get back to you within 24 hours.</p>
       <p><span class="glyphicon glyphicon-map-marker"></span> Geodesy Mangalore</p>
-      <p><span class="glyphicon glyphicon-phone"></span> +91-9449818550, +91-9886761192, +91-9663043080</p>
-      <p><span class="glyphicon glyphicon-envelope"></span> kavoorlab@gmail.com</p>
+      <p><span class="glyphicon glyphicon-phone"></span> +91-9886761192, +91-9663043080, +91-9449818550</p>
+      <p><span class="glyphicon glyphicon-envelope"></span> mangaloregeodesy@gmail.com</p>
     </div>
     <div class="col-sm-7 slideanim">     
       <div class="row">
