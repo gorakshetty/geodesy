@@ -1,6 +1,2 @@
 FTP Details 
-FTP IP:	ftp://194.5.156.55 
-FTP hostname:	ftp://eljaymedicaljobs.com 
-FTP username:	u492155822.geodesy.co.in 
-FTP port:	21
-Password: &9j2z[]z^eEt)gW
+
